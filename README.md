@@ -1,4 +1,4 @@
-![Patreon](https://c10.patreonusercontent.com/4/patreon-media/p/campaign/6715037/fc2b534e589f42ea969584f5f6a05c72/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/10.jpg?token-time=1717459200&token-hash=e9cFJBmUlK4q46fkp1U9adU1Oq80nhyjjfgAczFo_lk%3D)
+![Patreon]([https://c10.patreonusercontent.com/4/patreon-media/p/campaign/6715037/fc2b534e589f42ea969584f5f6a05c72/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/10.jpg?token-time=1717459200&token-hash=e9cFJBmUlK4q46fkp1U9adU1Oq80nhyjjfgAczFo_lk%3D](https://c10.patreonusercontent.com/4/patreon-media/p/campaign/6715037/fc2b534e589f42ea969584f5f6a05c72/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/10.jpg?token-time=1722729600&token-hash=_E1jffS1legyp9BFcmNXeIr3X8UpsxW507man5-J5l0%3D))
 # Welcome Traveler.
 My name's Oliver, but you can know me as Godzina X. I'm an advanced Backend Developer mainly focusing on C#, tho I work in different fields as well!
 * Software 👾
